@@ -12,6 +12,6 @@
   메모폼 화면과 상세 화면 사이에 데이터를 전달
   
   
-- 완성화면
+- 화면
 <img src="https://user-images.githubusercontent.com/69679578/136685958-9211d7e8-75a7-4dd7-995a-0dc9234c6454.gif" width="250">
 
